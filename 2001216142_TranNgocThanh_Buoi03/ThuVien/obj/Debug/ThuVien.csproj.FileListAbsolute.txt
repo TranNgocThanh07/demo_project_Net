@@ -1,0 +1,8 @@
+c:\users\administrator\documents\visual studio 2013\Projects\2001216142_TranNgocThanh_Buoi03\ThuVien\bin\Debug\ThuVien.dll
+c:\users\administrator\documents\visual studio 2013\Projects\2001216142_TranNgocThanh_Buoi03\ThuVien\bin\Debug\ThuVien.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\2001216142_TranNgocThanh_Buoi03\ThuVien\obj\Debug\ThuVien.dll
+c:\users\administrator\documents\visual studio 2013\Projects\2001216142_TranNgocThanh_Buoi03\ThuVien\obj\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\ThuVien\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\ThuVien\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\ThuVien\obj\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\ThuVien\obj\Debug\ThuVien.pdb

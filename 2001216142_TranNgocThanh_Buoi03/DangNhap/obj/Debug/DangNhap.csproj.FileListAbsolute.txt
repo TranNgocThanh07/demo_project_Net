@@ -1,0 +1,9 @@
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\bin\Debug\DangNhap.dll
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\bin\Debug\DangNhap.pdb
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\bin\Debug\ThuVien.dll
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\bin\Debug\ThuVien.pdb
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\obj\Debug\DangNhap.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\obj\Debug\DangNhap.UserControl1.resources
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\obj\Debug\DangNhap.csproj.GenerateResource.Cache
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\obj\Debug\DangNhap.dll
+E:\LuuDuLieuSV\2001216142_TranNgocThanh_Buoi03\DangNhap\obj\Debug\DangNhap.pdb
